@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Earthlings, 
+
+Casey here, exploring and trying things out. 
